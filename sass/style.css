@@ -147,7 +147,6 @@ ul {
   padding: 15px 41px;
   border: 2px solid #019a65;
   background-color: #02897a;
-  border-radius: 10px;
 }
 
 .start {
@@ -954,4 +953,26 @@ footer {
   outline: none;
   color: #02897a;
   background-color: white;
-} /*# sourceMappingURL=style.css.map */
+}
+
+.div {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: #555;
+}
+
+.divdiv {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: #02897a;
+}
+
+.circle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  padding: 60px 0;
+}/*# sourceMappingURL=style.css.map */

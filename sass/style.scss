@@ -962,3 +962,26 @@ footer {
   color: #02897a;
   background-color: white;
 }
+
+.div {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: #555;
+}
+
+.divdiv {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: #02897a;
+}
+
+.circle {
+  gap: 15px;
+  padding: 60px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 400px;
+}
