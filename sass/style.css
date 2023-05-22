@@ -147,6 +147,7 @@ ul {
   padding: 15px 41px;
   border: 2px solid #019a65;
   background-color: #02897a;
+  border-radius: 10px;
 }
 
 .start {
@@ -953,4 +954,4 @@ footer {
   outline: none;
   color: #02897a;
   background-color: white;
-}/*# sourceMappingURL=style.css.map */
+} /*# sourceMappingURL=style.css.map */
